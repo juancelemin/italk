@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_a9fbd07194be7b72959d43fe6638452020474457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_017f6b2b98b0c084a7754a876a218d12a4a2acbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_db875505667452f82834379951be2ac965752dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d5387c4857d6a27ecce291803d9824a05863e802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_957ed1f3beb3352e729483416c824de1fd024c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_982a4c6458b6feac2434ed43ff0fee01a99f3a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_3038bd4f3b1e8d9ed6a9927350827210f8c690b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_28865ff634fafff36a0b26ec00d0747e376a8086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_3106d912bbed2ba47ff2430d7ea3633fc5392283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_be83eabb88d51504089a6d3cfe147182cd9ef52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_92102c5f58164dbd8b5598d86c34e764a76415fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta3_8ae8e6ce86ed1e2dc783dc4bc3a968f9843a8285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_735c9188528738d144e56120fa76b76c7176639b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_e0c33e19bbfbd5884e7b0aa1865558cb973d4b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_f1c372981334d0d3e43454eeefc0d4ebed5b9ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_ebd00f220ab0d309624ba4a285a02333afdd624f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_4663a070884b993fe4419d87bdbb866422264ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_9ce89b67b3cc38bdd20fd98f7bd47d113ba42c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta3_4996332b3e328d102b9e395847f96f71bc4e2bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eb7830eef550e5b92840d3d227e5e4fccee97bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_9605ae9803bcdec4978cd88840fd7cfae7014511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d5387c4857d6a27ecce291803d9824a05863e802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_982a4c6458b6feac2434ed43ff0fee01a99f3a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_f1c372981334d0d3e43454eeefc0d4ebed5b9ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_98022cf9423c8230b4dd07e5280b2960b34ef0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_3038bd4f3b1e8d9ed6a9927350827210f8c690b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_db875505667452f82834379951be2ac965752dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_3106d912bbed2ba47ff2430d7ea3633fc5392283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4b00141656ad28b3b0c5d37a3a9e1ed4c470f3c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4123e56e1923cab21b665971337df256b0ab4d89">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\instant-run_41ca7fa6028fea6db9e58a5e8fbad899887bd186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_39457ada08aadd8856b1b58356601e98707154ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2a33b62c0360587c332cc4429a76a2d845aa546">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1c95c8a465479cce8579f194e6f72fbf162ad29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_017f6b2b98b0c084a7754a876a218d12a4a2acbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_be83eabb88d51504089a6d3cfe147182cd9ef52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_28865ff634fafff36a0b26ec00d0747e376a8086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_735c9188528738d144e56120fa76b76c7176639b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta3_8ae8e6ce86ed1e2dc783dc4bc3a968f9843a8285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4b00141656ad28b3b0c5d37a3a9e1ed4c470f3c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eb7830eef550e5b92840d3d227e5e4fccee97bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_92102c5f58164dbd8b5598d86c34e764a76415fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_ebd00f220ab0d309624ba4a285a02333afdd624f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_39457ada08aadd8856b1b58356601e98707154ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_e0c33e19bbfbd5884e7b0aa1865558cb973d4b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_9ce89b67b3cc38bdd20fd98f7bd47d113ba42c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_98022cf9423c8230b4dd07e5280b2960b34ef0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta3_4996332b3e328d102b9e395847f96f71bc4e2bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_957ed1f3beb3352e729483416c824de1fd024c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_4663a070884b993fe4419d87bdbb866422264ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_a9fbd07194be7b72959d43fe6638452020474457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_9605ae9803bcdec4978cd88840fd7cfae7014511.jar" />
+    </item>
+
+</items>

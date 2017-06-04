@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hablar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/edit"
+    tools:context="com.appmyproyect.jcelemin.com.italk.HablarActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/txtTexto"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/botones">
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btnGuardar"
+                android:background="@drawable/guardar"
+                android:layout_weight="1"
+                android:layout_margin="5dp"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btnBorrar"
+                android:background="@drawable/eliminar"
+                android:layout_weight="1"
+                android:layout_margin="5dp"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btnHablar"
+                android:background="@drawable/microfono"
+                android:layout_weight="1"
+                android:layout_margin="5dp"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btnEscuchar"
+                android:background="@drawable/sound"
+                android:layout_weight="1"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btnSalir"
+                android:background="@drawable/button"
+                android:layout_weight="1"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="text|textPersonName"
+        android:text="I talk"
+        android:ems="10"
+        android:id="@+id/txtTexto"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textStyle="normal|bold"
+        android:background="@color/white"
+        android:textColor="@android:color/black"
+        android:layout_weight="1"
+        android:elevation="3dp"
+        android:layout_marginTop="54dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

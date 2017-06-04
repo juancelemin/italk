@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:8:5-82:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.appmyproyect.jcelemin.com.italk.MainActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.appmyproyect.jcelemin.com.italk.ConversacionActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:21:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:22:13-26:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:25:27-73
+activity#com.appmyproyect.jcelemin.com.italk.NecesidadesActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:28:19-54
+activity#com.appmyproyect.jcelemin.com.italk.SaludoActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:35:19-49
+activity#com.appmyproyect.jcelemin.com.italk.SOSActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:42:19-46
+activity#com.appmyproyect.jcelemin.com.italk.EditarConversacionActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:49:19-61
+activity#com.appmyproyect.jcelemin.com.italk.HablarActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:54:19-49
+activity#com.appmyproyect.jcelemin.com.italk.SeleccionarActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:61:19-54
+activity#com.appmyproyect.jcelemin.com.italk.EditarNesecidadActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:68:19-58
+activity#com.appmyproyect.jcelemin.com.italk.EditarSaludoActivity
+ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:75:9-81:20
+	android:name
+		ADDED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml:75:19-55
+uses-sdk
+INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:design:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j celemin\AndroidStudioProjects\Italk\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\j celemin\AndroidStudioProjects\Italk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:20-65

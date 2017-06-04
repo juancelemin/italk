@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appmyproyect.jcelemin.com.italk.EditarConversacionActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="te quiero mucho"
+                android:id="@+id/btncon1"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversouno" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="no lo se"
+                android:id="@+id/btncon2"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversodos" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo una idea"
+                android:id="@+id/btncon3"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversotres" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="regresar"
+                android:id="@+id/btncon4"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversocuatro" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="estoy de acuerdo"
+                android:id="@+id/btncon5"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversocinco" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="que horas son"
+                android:id="@+id/btncon6"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversoseis" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="no me gusta esto"
+                android:id="@+id/btncon7"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/conversosiete" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="home"
+                android:id="@+id/btnEconBack"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/derecha" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

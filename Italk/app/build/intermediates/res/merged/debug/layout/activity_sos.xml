@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appmyproyect.jcelemin.com.italk.SOSActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="sonido"
+            android:id="@+id/btnSounds"
+            android:layout_weight="1"
+            android:background="@drawable/sound"
+            android:layout_margin="5dp" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="mensaje de texto"
+            android:id="@+id/btnMsm"
+            android:layout_weight="1"
+            android:background="@drawable/correo"
+            android:layout_margin="5dp" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="cancelar"
+            android:id="@+id/btnBack"
+            android:layout_weight="1"
+            android:background="@drawable/no"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+</RelativeLayout>

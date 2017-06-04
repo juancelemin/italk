@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appmyproyect.jcelemin.com.italk.MainActivity">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="saludo"
+                android:id="@+id/btnGreet"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/hola"
+                style="@android:style/Widget.Material.ImageButton"
+                android:elevation="9dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="necesidades"
+                android:id="@+id/btnNeeds"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/needs" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="personalizacion"
+                android:id="@+id/btnPersonalitation"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/person" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="fecha"
+                android:id="@+id/btnDate"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/calendar" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Conversacion"
+                android:id="@+id/btnConversation"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/converso" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="sos"
+                android:id="@+id/btnSOS"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/sos"
+                android:singleLine="false" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="hora"
+                android:id="@+id/btnHora"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/reloj" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="home"
+                android:id="@+id/btnHome"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/salir"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appmyproyect.jcelemin.com.italk.NecesidadesActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo hambre"
+                android:id="@+id/btnHungry"
+                android:layout_weight="1"
+                android:background="@drawable/food"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo calor"
+                android:id="@+id/btnHot"
+                android:layout_weight="1"
+                android:background="@drawable/hot"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="nesecito ir al baÃ±o"
+                android:id="@+id/btnBath"
+                android:layout_weight="1"
+                android:background="@drawable/bano"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="regresar"
+                android:id="@+id/btnBack"
+                android:layout_weight="1"
+                android:background="@drawable/plus"
+                android:layout_margin="5dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo sed"
+                android:id="@+id/btnThirsty"
+                android:layout_weight="1"
+                android:background="@drawable/agua"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo frio"
+                android:id="@+id/btnCold"
+                android:layout_weight="1"
+                android:background="@drawable/frio"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Adicionar Necesidad"
+                android:id="@+id/btnAddNeeds"
+                android:layout_weight="1"
+                android:background="@drawable/pasear"
+                android:layout_margin="5dp" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="home"
+                android:id="@+id/btnHome"
+                android:layout_weight="1"
+                android:background="@drawable/button"
+                android:layout_margin="5dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

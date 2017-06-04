@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appmyproyect.jcelemin.com.italk.ConversacionActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="7dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="te quiero mucho"
+                android:id="@+id/btnLove"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/corazon" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="no lo se"
+                android:id="@+id/btnUnknow"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/que" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="tengo una idea"
+                android:id="@+id/btnIdea"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/idea" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="regresar"
+                android:id="@+id/btnBack"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/plus" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="estoy de acuerdo"
+                android:id="@+id/btnAgree"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/ok" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Estoy feliz"
+                android:id="@+id/btnTime"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/happy" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="no me gusta esto"
+                android:id="@+id/btnDontAgree"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/angry" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="home"
+                android:id="@+id/btnHome"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:background="@drawable/button" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
